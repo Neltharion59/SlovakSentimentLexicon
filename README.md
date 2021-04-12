@@ -20,7 +20,7 @@ Lexicon was constructed using manual annotations of 170 sentences. The annotatio
 Lexicon quality was tested using very simple lexicon-based sentiment analysis methods on the dataset mentioned below. The achieved results spanned circa in interval *<0.4; 0.5>* for all tested metrics: Precision, Accuracy, Recall, and F1 Score.
 Additional lexicons constructed using gathered annotations may be added later.
 - **Manually annotated sentence-level sentiment analysis dataset**
-The dataset is built of 15 reviews, totalling to 1220 sentences. Each sentence was manually asigned a sentiment category from possibilities: { -2, -1, 0, 1, 2 }, corresponding to { *very negative, negative, neutral, positive, very positive* }. Dataset is split into 15 excel files (one file holds one review). One row contains one sentence in the first column, sentiment category in second column. Categories are highlighted using conditioned formatting for visual intent.
+The dataset is built of 15 reviews, totalling to 1220 sentences. Each sentence was manually asigned a sentiment category from possibilities: { -2, -1, 0, 1, 2 }, corresponding to { *very negative, negative, neutral, positive, very positive* }. Dataset is split into 15 excel files (one file holds one review). One row contains one sentence in the first column, sentiment category in second column. Categories are highlighted using conditioned formatting for visual intent. Note that words are lemmatized.
 
 
 Both the lexicon and the dataset are results of effort published as:
