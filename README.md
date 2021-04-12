@@ -4,15 +4,15 @@
 This repository contains 2 resources for sentiment analysis in Slovak language:
 -  **Slovak Sentiment Lexicon**:
 Lexicon was constructed using manual annotations of 170 sentences. The annotations were collected using crowdsourcing via game with a purpose named *Sentižrút*. The lexicon contains 546 single words. With additional n-grams (for *n*=2 up to 5), the lexicon contains total of 6364 entries. The lexicon is provided in JSON form, structured as follows:
-```json
+```code
 {
     1: {
         "word" : sentiment_category,
-		...
+	...
     },
     2: {
         "word1,word2" : sentiment_category,
-		...
+	...
     },
 	...
 }
