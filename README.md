@@ -24,5 +24,7 @@ The dataset is built of 15 reviews, totalling to 1220 sentences. Each sentence w
 
 
 Both the lexicon and the dataset are results of effort published as:
+
 *To be added*
+
 Usage of these resources as well as suggestions are encouraged. If you use them in academic research, we kindly ask you to quote the publication (be sure to check back occassionaly in case that the publication has not been added yet).
