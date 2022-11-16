@@ -18,6 +18,6 @@ The dataset is built of 15 reviews, totalling to 1220 sentences. Each sentence w
 
 Both the lexicon and the dataset are results of effort published as:
 
-*To be added*
+*Radoský, L., Blšták, M. (2021). Constructing Sentiment Lexicon with Game for Annotation Collection. In: Espinosa-Anke, L., Martín-Vide, C., Spasić, I. (eds) Statistical Language and Speech Processing. SLSP 2021. Lecture Notes in Computer Science(), vol 13062. Springer, Cham. https://doi.org/10.1007/978-3-030-89579-2_4*
 
 Usage of these resources as well as suggestions are encouraged. If you use them in academic research, we kindly ask you to quote the publication (be sure to check back occassionaly in case that the publication has not been added yet).
